@@ -58,19 +58,14 @@
 
 ### Section 6: Discussion&#x20;
 
-6.1 Optimizations&#x20;
+[6.1 Optimizations ](discussion/6.1-optimizations.md)
 
-6.2 Concerns
+[6.2 Concerns](discussion/6.2-concerns.md)
 
 ### Appendixes
 
-[References](appendixes/references.md)
-
 [Resources](appendixes/resources.md)
 
+[References](appendixes/references.md)
+
 [Terminology](appendixes/terminology.md)
-
-
-
-
-

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Initium Native Token ($INIX) Whitepaper–– Version 1.0 –– © Initium Foundation,
-  August 2022.
+  Initium Networks Whitepaper–– Version 1.0 –– © Initium Foundation, August
+  2022.
 ---
 
 # Abstract
