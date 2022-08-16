@@ -67,5 +67,3 @@
 [Resources](appendixes/resources.md)
 
 [References](appendixes/references.md)
-
-[Terminology](appendixes/terminology.md)
